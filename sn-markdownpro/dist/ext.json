@@ -1,0 +1,11 @@
+{
+  "identifier": "gstjee.snmarkdownpro",
+  "name": "Markdownpro",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0.1",
+  "description": "A rich text editor using the quill library",
+  "url": "https://gstjee.github.io/sn-markdownpro/dist/",
+  "download_url": "https://gstjee.github.io/sn-markdownpro/dist/latest.zip",
+  "latest_url": "https://gstjee.github.io/sn-markdownpro/dist/ext.json"
+}
