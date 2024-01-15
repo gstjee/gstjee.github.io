@@ -5,6 +5,7 @@
   "area": "editor-editor",
   "version": "1.5.1",
   "description": "A simple modified text editor with improved usability and readability",
+  "url": "https://gstjee.github.io/sn-nimble/",
   "download_url": "https://gstjee.github.io/sn-nimble/nimble_v1_5_1.zip",
   "latest_url": "https://gstjee.github.io/sn-nimble/ext.json"
 }
