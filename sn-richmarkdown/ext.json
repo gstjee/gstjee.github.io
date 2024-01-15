@@ -1,0 +1,11 @@
+{
+  "identifier": "org.github.gstjee.richmarkdown",
+  "name": "Rich Markdown Editor Modified",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0.1",
+  "description": "A rich text editor",
+  "url": "https://gstjee.github.io/sn-richmarkdown/",
+  "download_url": "https://gstjee.github.io/sn-richmarkdown/latest.zip",
+  "latest_url": "https://gstjee.github.io/sn-richmarkdown/ext.json"
+}
