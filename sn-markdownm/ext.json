@@ -1,0 +1,11 @@
+{
+  "identifier": "gstjee.snmarkdownm",
+  "name": "markdownm",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.4.2",
+  "description": "Minimal Markdown editor with live rendering and in-text search",
+  "url": "https://gstjee.github.io/sn-markdownm/",
+  "download_url": "https://gstjee.github.io/sn-markdownm/sn_markdownm_v1_4_2.zip",
+  "latest_url": "https://gstjee.github.io/sn-markdownm/ext.json"
+}
